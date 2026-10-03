@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mojulo-qwen",
+  "version": "0.1.0",
+  "description": "Build, edit and export deterministic 3D artifacts with Mojulo from Qwen Code.",
+  "author": {
+    "name": "Franz Ombico",
+    "url": "https://mojulo.ai"
+  },
+  "homepage": "https://mojulo.ai",
+  "repository": "https://github.com/zombico/mojulo-qwen",
+  "license": "Apache-2.0",
+  "keywords": ["3d", "procedural", "qwen", "agent", "glb", "worldbuilding"],
+  "skills": "./skills/"
+}
